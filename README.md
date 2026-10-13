@@ -1,3 +1,5 @@
+**Altin Kalludra** · [Download CV (PDF)](https://github.com/ulasmango-cmd/atlascall-portfolio/raw/refs/heads/main/cv/Altin-Kalludra-CV.pdf)
+
 <div align="center">
 
 # AtlasCall
@@ -168,7 +170,7 @@ Real carrier calling and browser media are external production dependencies. The
 
 ## Ownership
 
-Built by **Altin** ([@ulasmango-cmd](https://github.com/ulasmango-cmd)).
+Built by **Altin Kalludra** ([@ulasmango-cmd](https://github.com/ulasmango-cmd)).
 
 - GitHub profile: [github.com/ulasmango-cmd](https://github.com/ulasmango-cmd)
 - Live demo: [chezrelaisak.online](https://www.chezrelaisak.online)
@@ -180,4 +182,4 @@ Built by **Altin** ([@ulasmango-cmd](https://github.com/ulasmango-cmd)).
 
 The production implementation is **private and proprietary**. This repository contains portfolio documentation and product screenshots only — it intentionally does not include application source code, business logic, infrastructure configuration or credentials.
 
-© Altin. All rights reserved.
+© Altin Kalludra. All rights reserved.
