@@ -170,9 +170,9 @@ Real carrier calling and browser media are external production dependencies. The
 
 ## Ownership
 
-Built by **Altin Kalludra** ([@ulasmango-cmd](https://github.com/ulasmango-cmd)).
+Built by **[Altin Kalludra](https://github.com/ulasmango-cmd)**.
 
-- GitHub profile: [github.com/ulasmango-cmd](https://github.com/ulasmango-cmd)
+- GitHub profile: [Altin Kalludra](https://github.com/ulasmango-cmd)
 - Live demo: [chezrelaisak.online](https://www.chezrelaisak.online)
 - Private production source: [ulasmango-cmd/atlascall](https://github.com/ulasmango-cmd/atlascall) *(private)*
 
