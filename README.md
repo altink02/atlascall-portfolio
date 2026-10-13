@@ -1,4 +1,4 @@
-**Altin Kalludra** · [Download CV (PDF)](https://github.com/ulasmango-cmd/atlascall-portfolio/raw/refs/heads/main/cv/Altin-Kalludra-CV.pdf)
+**Altin Kalludra** · [All projects](https://github.com/altink02/fxquant-portfolio/blob/main/PORTFOLIO.md) · [Download CV (PDF)](https://github.com/altink02/atlascall-portfolio/raw/refs/heads/main/cv/Altin-Kalludra-CV.pdf)
 
 <div align="center">
 
@@ -170,11 +170,11 @@ Real carrier calling and browser media are external production dependencies. The
 
 ## Ownership
 
-Built by **[Altin Kalludra](https://github.com/ulasmango-cmd)**.
+Built by **[Altin Kalludra](https://github.com/altink02)**.
 
-- GitHub profile: [Altin Kalludra](https://github.com/ulasmango-cmd)
+- GitHub profile: [Altin Kalludra](https://github.com/altink02)
 - Live demo: [chezrelaisak.online](https://www.chezrelaisak.online)
-- Private production source: [ulasmango-cmd/atlascall](https://github.com/ulasmango-cmd/atlascall) *(private)*
+- Private production source: [altink02/atlascall](https://github.com/altink02/atlascall) *(private)*
 
 ---
 
